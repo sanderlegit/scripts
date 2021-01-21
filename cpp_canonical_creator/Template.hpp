@@ -9,6 +9,6 @@ class Template {
 
 		Template &		operator=(Template const & rhs);
 	private:
-}
+};
 
 #endif

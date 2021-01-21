@@ -4,7 +4,7 @@ Template::Template(void) {
 	return;
 }
 
-Teplate::Template(Template const & src) {
+Template::Template(Template const & src) {
 	*this = src;
 	return;
 }

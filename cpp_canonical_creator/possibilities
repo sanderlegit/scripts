@@ -1,0 +1,10 @@
+create a vim plugin/command set for
+	generating a class
+	generating a new member function
+
+
+auto fill = operator
+auto create a complete constructor with all attributes;
+auto create an empty function code block after prototype;
+auto create a prototype from a function block;
+auto create canonical class from interface;
