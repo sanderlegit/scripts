@@ -7,7 +7,7 @@ class Template {
 		Template(Template const & src);
 		~Template(void);
 
-		Template &		operator=(Template const & rhs);
+		Template &				operator=(Template const & rhs);
 	private:
 };
 

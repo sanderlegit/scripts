@@ -13,7 +13,7 @@ Template::~Template(void) {
 	return;
 }
 
-Template &		Template::operator=(Template const & rhs) {
+Template &					Template::operator=(Template const & rhs) {
 	//FILL
 	return *this;
 }
